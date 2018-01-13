@@ -1,0 +1,9 @@
+Creating [dbo].[HR_KB_THAYDOI]
+Creating primary key [PK_HR_KB_THAYDOI] on [dbo].[HR_KB_THAYDOI]
+Creating [dbo].[HR_KB_THAYDOI_CT]
+Creating primary key [PK_HR_KB_THAYDOI_CT] on [dbo].[HR_KB_THAYDOI_CT]
+Altering [dbo].[HR_KB_NHAP_CT]
+Adding foreign keys to [dbo].[HR_KB_THAYDOI_CT]
+Adding foreign keys to [dbo].[HR_KB_THAYDOI]
+(1 row affected)
+The database updated succeeded

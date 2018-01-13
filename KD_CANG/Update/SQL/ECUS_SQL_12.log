@@ -1,0 +1,9 @@
+Altering [dbo].[CONT_KB_CONTAINER_OUT_465_CT]
+Altering [dbo].[CONT_KB_CONTAINER_OUT_CT]
+Altering [dbo].[CONT_KB_CONTAINER_CT]
+Altering [dbo].[SYSNSD]
+Creating [dbo].[SP_RESET_DB]
+Creating [dbo].[SP_INSERTGENERATOR]
+Creating [dbo].[SP_REINDEXALL]
+(1 row affected)
+The database updated succeeded

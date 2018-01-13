@@ -1,0 +1,9 @@
+Creating [dbo].[CONT_TRACUU_363_CT]
+Creating primary key [PK_CONT_TRACUU_363_CT] on
+[dbo].[CONT_TRACUU_363_CT]
+Creating [dbo].[CONT_TRACUU_363]
+Creating primary key [PK_CONT_TRACUU_363] on [dbo].[CONT_TRACUU_363]
+Altering [dbo].[KB_HH_CHUYEN_CANG_CT]
+Adding foreign keys to [dbo].[CONT_TRACUU_363_CT]
+(1 row affected)
+The database updated succeeded

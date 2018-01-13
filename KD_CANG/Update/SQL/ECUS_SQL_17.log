@@ -1,0 +1,6 @@
+Creating [dbo].[DCONGKY]
+Creating primary key [PK_DCONGKY] on [dbo].[DCONGKY]
+Altering [dbo].[HK_KB_NHAP_CT]
+Altering [dbo].[HR_KB_NHAP_CT]
+(1 row affected)
+The database updated succeeded

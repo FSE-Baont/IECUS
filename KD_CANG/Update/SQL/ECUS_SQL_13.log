@@ -1,0 +1,28 @@
+Altering [dbo].[CONT_KB_TKVC_CT_VANDON]
+Creating [dbo].[CONT_KB_NIEMPHONG_CT]
+Creating primary key [PK_CONT_KB_NIEMPHONG_CT] on
+[dbo].[CONT_KB_NIEMPHONG_CT]
+Creating [dbo].[CONT_KB_NIEMPHONG]
+Creating primary key [PK_CONT_KB_NIEMPHONG] on
+[dbo].[CONT_KB_NIEMPHONG]
+Altering [dbo].[CONT_KB_CONTAINER_CT]
+Altering [dbo].[HR_KB_NHAP_CT]
+Altering [dbo].[HK_KB_NHAP_CT]
+Altering [dbo].[SYSCHUC_NANG]
+Altering [dbo].[SYSTHAO_TAC]
+Creating primary key [PK_SYSTHAO_TAC] on [dbo].[SYSTHAO_TAC]
+Creating [dbo].[KB_HH_CHUYEN_CANG]
+Creating primary key [PK_KB_HH_CHUYEN_CANG] on
+[dbo].[KB_HH_CHUYEN_CANG]
+Creating [dbo].[KB_HH_CHUYEN_CANG_CT]
+Creating primary key [PK_KB_HH_CHUYEN_CANG_CT] on
+[dbo].[KB_HH_CHUYEN_CANG_CT]
+Creating [dbo].[KB_HH_CHUYEN_CANG_CT_VANDON]
+Creating primary key [PK_KB_HH_CHUYEN_CANG_CT_VANDON] on
+[dbo].[KB_HH_CHUYEN_CANG_CT_VANDON]
+Adding constraints to [dbo].[SYSTHAO_TAC]
+Adding foreign keys to [dbo].[CONT_KB_NIEMPHONG_CT]
+Adding foreign keys to [dbo].[CONT_KB_NIEMPHONG]
+Adding foreign keys to [dbo].[CONT_KB_TKVC_CT_VANDON]
+(1 row affected)
+The database updated succeeded
